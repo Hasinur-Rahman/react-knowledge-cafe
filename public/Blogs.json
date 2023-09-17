@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://renderform.io/blog/post-cover-blue.png",
+      "title": "The Mystery of the Lost City",
+      "author": "Emily Davis",
+      "authorImg": "https://www.filmibeat.com/img/2017/02/the-american-people-are-bigger-than-any-president-says-angelina-jolie-21-1487662743.jpg",
+      "postedDate": "Mar 13 (3 Days ago)",
+      "readingTime": 7,
+      "hashtags": ["Mystery", "Adventure", "Exploration"]
+    },
+    {
+      "id": 2,
+      "cover": "https://smallbusinessbonfire.com/wp-content/uploads/2022/11/create-cover-images.jpeg",
+      "title": "Cooking Delights",
+      "author": "Michael Johnson",
+      "authorImg": "https://media.istockphoto.com/id/115192454/photo/native-american-people-navajo-male.jpg?s=612x612&w=0&k=20&c=vP9t9kdIoz9ouTKFtIybZ2f_59PrEtWAfxD_rnxVWqU=",
+      "postedDate": "Mar 14 (2 Days ago)",
+      "readingTime": 5,
+      "hashtags": ["Cooking", "Recipes", "Food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://st2.depositphotos.com/1420973/6409/i/450/depositphotos_64095317-stock-photo-blog-concept-cloud-chart-print.jpg",
+      "title": "Art of Coding",
+      "author": "Sophia Smith",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjt5YUoLcTvxR7pndZadq2NEyDUViAn5p_DQ&usqp=CAU",
+      "postedDate": "Mar 15 (1 Day ago)",
+      "readingTime": 3,
+      "hashtags": ["Technology", "Coding", "Programming"]
+    },
+    {
+      "id": 4,
+      "cover": "https://st.depositphotos.com/1420973/2432/i/450/depositphotos_24326833-stock-photo-seo-business-concept-cloud-chart.jpg",
+      "title": "Traveling the World",
+      "author": "Daniel Lee",
+      "authorImg": "https://img.freepik.com/premium-photo/shot-handsome-confident-young-man-posing-outside-memorial-day-created-with-generative-ai_762026-9790.jpg",
+      "postedDate": "Mar 13 (3 Days ago)",
+      "readingTime": 3,
+      "hashtags": ["Travel", "Adventure", "Exploration"]
+    },
+    {
+      "id": 5,
+      "cover": "https://img.freepik.com/premium-photo/view-desktop-with-coffee-laptop_325774-1964.jpg",
+      "title": "Health and Wellness Guide",
+      "author": "Olivia Martinez",
+      "authorImg": "https://img.freepik.com/free-photo/close-up-shot-adorable-dark-skinned-females-with-confident-look-has-curly-hair-ponders-about-something-african-american-woman-has-rest-against-cafe-interior_273609-2383.jpg",
+      "postedDate": "Mar 15 (1 Day ago)",
+      "readingTime": 3,
+      "hashtags": ["Health", "Wellness", "Fitness"]
+    }
+  ]
+  
